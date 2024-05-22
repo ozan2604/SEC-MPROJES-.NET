@@ -1,0 +1,11 @@
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\bin\Debug\secimProjesi.exe.config
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\bin\Debug\secimProjesi.exe
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\bin\Debug\secimProjesi.pdb
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\obj\Debug\secimProjesi.csproj.AssemblyReference.cache
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\obj\Debug\secimProjesi.Form1.resources
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\obj\Debug\secimProjesi.FRM_GRAFİKLER.resources
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\obj\Debug\secimProjesi.Properties.Resources.resources
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\obj\Debug\secimProjesi.csproj.GenerateResource.cache
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\obj\Debug\secimProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\obj\Debug\secimProjesi.exe
+C:\Users\Ozan\OneDrive\Masaüstü\Yeni klasör\secimProjesi\secimProjesi\obj\Debug\secimProjesi.pdb
